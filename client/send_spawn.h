@@ -1,0 +1,1 @@
+void spawn_cmd(char* hostname, char* port, int argc, char** args);
